@@ -1,52 +1,31 @@
-# Prerequisites
-*.d
+# Altium ----------------------------------------
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+Muladhara_PCB/Project*/*
+Muladhara_PCB/History/*
+Muladhara_PCB/__Previews/*
+Muladhara_PCB/*.htm
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# PSOC Creator ----------------------------------------
 
-# Precompiled Headers
-*.gch
-*.pch
+# ignore PSoC Creator workspaces
+*.cywrk
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# folders generated after build (any PSoC series)
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+Muladhara*/Generated_Source/*
+Muladhara*/Cortex*/*
+Muladhara*/codegentemp/*
+Muladhara*/Export/*
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Ignore files generated after project build
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
+*.cycdx
+*.cyfit
+*.rpt
+*.log
 
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
+# Ignoring OneDrive version of project file
+
+*cyprj.*
+*cywrk.*
+ 
