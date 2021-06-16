@@ -5,6 +5,8 @@ Muladhara_PCB/History/*
 Muladhara_PCB/__Previews/*
 Muladhara_PCB/*.htm
 
+*.SchDocPreview
+
 # PSOC Creator ----------------------------------------
 
 # ignore PSoC Creator workspaces
