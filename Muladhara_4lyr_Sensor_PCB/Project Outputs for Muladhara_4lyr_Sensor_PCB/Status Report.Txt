@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Muladhara_4lyr_Sensor_PCB.PrjPcb]
+   Generated File[Capsense_PCB.TXT]
+   Generated File[Capsense_PCB.LDP]
+   Generated File[Capsense_PCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:57:47 PM On 2021-06-22

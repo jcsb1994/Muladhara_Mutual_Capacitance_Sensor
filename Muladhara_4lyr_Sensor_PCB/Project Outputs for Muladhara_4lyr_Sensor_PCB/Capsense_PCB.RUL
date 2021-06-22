@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\jcbsk\Documents\Muladhara_Mutual_Capacitance_Sensor\Muladhara_4lyr_Sensor_PCB\Capsense_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_gone|Scope=Board|Minimum=6.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
