@@ -5,6 +5,12 @@ Muladhara_PCB/History/*
 Muladhara_PCB/__Previews/*
 Muladhara_PCB/*.htm
 
+Muladhara_4lyr_Sensor_PCB/Project*/*
+Muladhara_4lyr_Sensor_PCB/History/*
+Muladhara_4lyr_Sensor_PCB/__Previews/*
+Muladhara_4lyr_Sensor_PCB/*.htm
+
+
 *.SchDocPreview
 
 # PSOC Creator ----------------------------------------
